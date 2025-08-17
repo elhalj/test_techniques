@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "banane",
+    "description": "banane douce venant du mali"
+  },
+  {
+    "id": 2,
+    "name": "papaye",
+    "description": "papaye venu du mali"
+  },
+  {
+    "id": 3,
+    "name": "pamplemousse",
+    "description": "pamplemouse venu du mali"
+  },
+  {
+    "id": 4,
+    "name": "orange",
+    "description": "orange venu du mali"
+  },
+  {
+    "id": 5,
+    "name": "mangue",
+    "description": "mangue venu du mali"
+  },
+  {
+    "id": 6,
+    "name": "ananas",
+    "description": "ananas venu du mali"
+  },
+  {
+    "id": 7,
+    "name": "kiwi",
+    "description": "kiwi venu du mali"
+  },
+  {
+    "id": 8,
+    "name": "fraise",
+    "description": "fraise venu du mali"
+  },
+  {
+    "id": 9,
+    "name": "citron",
+    "description": "citron venu du mali"
+  },
+  {
+    "id": 10,
+    "name": "pomme",
+    "description": "pomme venu du mali"
+  },
+  {
+    "id": 11,
+    "name": "poire",
+    "description": "poire venu du mali"
+  },
+  {
+    "id": 12,
+    "name": "peche",
+    "description": "peche venu du mali"
+  },
+  {
+    "id": 13,
+    "name": "cerise",
+    "description": "cerise venu du mali"
+  },
+  {
+    "id": 14,
+    "name": "abricot",
+    "description": "abricot venu du mali"
+  },
+  {
+    "id": 15,
+    "name": "pêche",
+    "description": "pêche venu du mali"
+  },
+  {
+    "id": 16,
+    "name": "figue",
+    "description": "figue venu du mali"
+  },
+  {
+    "id": 17,
+    "name": "datte",
+    "description": "datte venu du mali"
+  },
+  {
+    "id": 18,
+    "name": "prune",
+    "description": "prune venu du mali"
+  },
+  {
+    "id": 19,
+    "name": "raisin",
+    "description": "raisin venu du mali"
+  },
+  {
+    "id": 20,
+    "name": "mûre",
+    "description": "mûre venu du mali"
+  },
+  {
+    "id": 21,
+    "name": "cassis",
+    "description": "cassis venu du mali"
+  },
+  {
+    "id": 22,
+    "name": "framboise",
+    "description": "framboise venu du mali"
+  },
+  {
+    "id": 23,
+    "name": "groseille",
+    "description": "groseille venu du mali"
+  },
+  {
+    "id": 24,
+    "name": "airelle",
+    "description": "airelle venu du mali"
+  },
+  {
+    "id": 25,
+    "name": "citrouille",
+    "description": "citrouille venu du mali"
+  },
+  {
+    "id": 26,
+    "name": "poivron",
+    "description": "poivron venu du mali"
+  },
+  {
+    "id": 27,
+    "name": "tomate",
+    "description": "tomate venu du mali"
+  },
+  {
+    "id": 28,
+    "name": "concombre",
+    "description": "concombre venu du mali"
+  },
+  {
+    "id": 29,
+    "name": "courge",
+    "description": "courge venu du mali"
+  },
+  {
+    "id": 30,
+    "name": "melon",
+    "description": "melon venu du mali"
+  }
+]
