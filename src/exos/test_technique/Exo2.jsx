@@ -145,3 +145,7 @@ const Exo2 = () => {
 }
 
 export default Exo2
+
+// for (let i = 0; i < orderedData.length / 10; i++) {
+
+// }

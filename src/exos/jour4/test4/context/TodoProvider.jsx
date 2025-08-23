@@ -39,7 +39,7 @@ export const TodoProvider = ({ children }) => {
 //         return JSON.parse(localStorage.getItem("todoToken")) || [];
 //     });
 
-//     // Mettre à jour localStorage à chaque changement
+// Mettre à jour localStorage à chaque changement
 //     useEffect(() => {
 //         localStorage.setItem("todoToken", JSON.stringify(todos));
 //     }, [todos]);

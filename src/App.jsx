@@ -33,15 +33,22 @@
 
 // export default App
 import React from 'react'
-import Main2 from './exos/jour2/Main2'
+// import Main2 from './exos/jour2/Main2'
+import Exo2 from './exos/test_technique/Exo2'
+import Test3 from './exos/jour5/Test3'
+import Test3Reducer from './exos/jour5/Test3'
+import Test4 from './exos/jour5/Test4'
 // import Main from './exos/jour1/Main'
 
 const App = () => {
   return (
     <div>
       {/* <Exo1 /> */}
+      {/* <Exo2 />   */}
+      {/* <Test3Reducer /> */}
+      <Test4 />
       {/* <Main /> */}
-      <Main2 />
+      {/* <Main2 /> */}
     </div>
   )
 }
